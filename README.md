@@ -1,4 +1,4 @@
-# Real-Time Grammar-Based Syntax Highlighter with GUI
+
 # Real-Time-Grammar-Based-Syntax-Highlighter-with-GUI
 
 ![Syntax Highlighter GUI](gui.png)
