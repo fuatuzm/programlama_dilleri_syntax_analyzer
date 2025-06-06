@@ -1,1 +1,1 @@
-# programlama_dilleri_syntax_analyzer
+# Real-Time Grammar-Based Syntax Highlighter with GUI
