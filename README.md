@@ -40,7 +40,8 @@ Bu proje, Programlama Dilleri dersi kapsamında geliştirilmiş bir gerçek zama
   - Ayraç: Mor
   - Hatalı yapı: Kırmızı arka plan
 
-
+## Video Linki
+https://www.youtube.com/watch?v=F9uWdqjFD4E
 
 ## 🚀 Uygulamayı Başlatmak
 
